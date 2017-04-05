@@ -3,4 +3,3 @@
 ```sh
 $ fisher naoty/peco-functions
 ```
-
