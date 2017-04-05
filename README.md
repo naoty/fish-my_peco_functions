@@ -1,5 +1,5 @@
-# fish-peco-functions
+# fish-my-peco-functions
 
 ```sh
-$ fisher naoty/peco-functions
+$ fisher naoty/fish-my-peco-functions
 ```
